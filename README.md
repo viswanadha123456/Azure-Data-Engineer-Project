@@ -23,6 +23,8 @@ Minimal transformations applied
 Silver Layer (Cleaned Data)
 Data is cleaned, validated, and transformed using Databricks & PySpark
 Stored in Delta format
+![Image1](https://github.com/user-attachments/assets/07acb4e6-6cf8-4608-aec6-a4f6c135a3f1)
+![Image2](https://github.com/user-attachments/assets/56081ded-3525-4f3f-9e11-77b3b591fbb5)
 
 Repository Structure
 ├── adf/
