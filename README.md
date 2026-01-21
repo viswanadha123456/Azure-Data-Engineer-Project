@@ -7,6 +7,8 @@ Azure Data Factory
 Azure Data Lake Storage (ADLS Gen2)
 Azure Databricks
 Apache Spark (PySpark)
+
+
 👉 Databricks is used both for data processing and as the data warehouse, storing curated datasets in Delta format for analytics.
 Architecture Overview
 The project follows the Medallion Architecture implemented fully in Databricks:
@@ -26,6 +28,11 @@ Stored in Delta format
 ![Image1](https://github.com/user-attachments/assets/07acb4e6-6cf8-4608-aec6-a4f6c135a3f1)
 ![Image2](https://github.com/user-attachments/assets/56081ded-3525-4f3f-9e11-77b3b591fbb5)
 
+
+
+
+
+
 Repository Structure
 ├── adf/
 │   └── pipelines/
@@ -36,3 +43,8 @@ Repository Structure
 │   ├── silver/
 │   └── gold/
 └── README.md
+
+
+
+
+
